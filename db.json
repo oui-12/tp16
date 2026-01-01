@@ -1,0 +1,44 @@
+{
+  "comptes": [
+    {
+      "id": 1,
+      "numero": "FR7630001007941234567890185",
+      "type": "Compte Courant",
+      "solde": 1500.50,
+      "proprietaire": "Jean Dupont"
+    },
+    {
+      "id": 2,
+      "numero": "FR7610011000201234567890186",
+      "type": "Compte Épargne",
+      "solde": 5000.75,
+      "proprietaire": "Marie Martin"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "compteId": 1,
+      "type": "débit",
+      "montant": 150.00,
+      "date": "2025-01-15T14:30:00Z",
+      "description": "Achat en ligne"
+    },
+    {
+      "id": 2,
+      "compteId": 1,
+      "type": "crédit",
+      "montant": 2000.00,
+      "date": "2025-01-10T09:15:00Z",
+      "description": "Salaire"
+    },
+    {
+      "id": 3,
+      "compteId": 2,
+      "type": "crédit",
+      "montant": 300.00,
+      "date": "2025-01-05T16:45:00Z",
+      "description": "Virement"
+    }
+  ]
+}
