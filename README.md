@@ -1,5 +1,5 @@
 # 🏦 Application de Gestion Bancaire - React avec JSON Server
-
+<img width="1868" height="917" alt="Image" src="https://github.com/user-attachments/assets/eb85d7d1-7848-4ccd-9954-0f009a214f2f" />
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)](https://reactjs.org/)
 [![JSON Server](https://img.shields.io/badge/JSON%20Server-0.17.0-000000?logo=json)](https://github.com/typicode/json-server)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.0-06B6D4?logo=tailwind-css)](https://tailwindcss.com/)
